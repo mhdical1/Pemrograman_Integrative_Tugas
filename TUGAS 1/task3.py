@@ -1,4 +1,8 @@
 # Soal no 3
+
+#NAMA : MUHAMMAD FAISAL HAMZAH
+#NIM  : 211402132
+
 # Menentukan apakah angka kecil, sedang atau besar
 
 def kategoribesarkecilsedang():

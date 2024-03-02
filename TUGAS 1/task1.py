@@ -1,4 +1,8 @@
 # SOAL NO 1
+
+#NAMA : MUHAMMAD FAISAL HAMZAH
+#NIM  : 211402132
+
 # Mengukur gaji bulanan dari gaji tahunan
 
 def gajibulanan():

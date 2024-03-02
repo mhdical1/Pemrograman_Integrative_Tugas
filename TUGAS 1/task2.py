@@ -1,4 +1,8 @@
 # Soal No 2
+
+#NAMA : MUHAMMAD FAISAL HAMZAH
+#NIM  : 211402132
+
 # Membaca angka bulat dan membaginya dengan 3
 
 def menghitunghasilbagi3():

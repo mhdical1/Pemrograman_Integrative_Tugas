@@ -1,4 +1,8 @@
 #Soal No 5
+
+#NAMA : MUHAMMAD FAISAL HAMZAH
+#NIM  : 211402132
+
 # Program ini membaca angka-angka sampai -1 dimasukkan dan menghitung jumlah dari semua angka yang dimasukkan.
 
 def hitung_jumlah():

@@ -1,4 +1,8 @@
 #Soal No 4
+
+#NAMA : MUHAMMAD FAISAL HAMZAH
+#NIM  : 211402132
+
 # Membaca input angka
 num = int(input("Masukkan angka: "))
 
