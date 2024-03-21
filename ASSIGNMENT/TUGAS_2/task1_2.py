@@ -3,7 +3,7 @@
 
 import datetime
 
-# Dapatkan tanggal saat ini
+# Input tanggal saat ini
 tanggal_sekarang = datetime.date.today()
 
 # Jumlah hari yang akan ditambahkan ke tanggal saat ini
