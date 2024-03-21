@@ -1,3 +1,6 @@
+#NAMA : MUHAMMAD FAISAL HAMZAH
+#NIM  : 211402132
+
 class BMI:
     def __init__(self):
         self.weight = float(input("Masukkan berat (kg): "))

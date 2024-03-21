@@ -1,3 +1,6 @@
+#NAMA : MUHAMMAD FAISAL HAMZAH
+#NIM  : 211402132
+
 total = 0.00
 
 while True:

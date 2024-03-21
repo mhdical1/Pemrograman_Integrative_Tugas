@@ -1,3 +1,6 @@
+#NAMA : MUHAMMAD FAISAL HAMZAH
+#NIM  : 211402132
+
 import datetime
 
 # Dapatkan tanggal saat ini
