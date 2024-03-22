@@ -1,12 +1,16 @@
-# Baca file teks
-with open("indata.txt", "r") as file:
-    numbers = file.read().splitlines()
+def read_numbers_from_file(filename):
+    with open(filename, 'r') as file:
+        numbers = [int(line.strip()) for line in file]
+    return numbers
 
-# Ubah string menjadi bilangan bulat
-numbers = [int(number) for number in numbers]
+def print_sum_with_comma_separator(numbers):
+    total = sum(numbers)
+    formatted_total = '{:,.2f}'.format(total)
+    print(formatted_total, end="")
 
-# Hitung jumlah angka
-total = sum(numbers)
+def main():
+    numbers = read_numbers_from_file('indata.txt')
+    print_sum_with_comma_separator(numbers)
 
-# Cetak jumlah angka dengan dua digit desimal
-print("{:.2f}".format(total))
+if __name__ == "__main__":
+    main()
